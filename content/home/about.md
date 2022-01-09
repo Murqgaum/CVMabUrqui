@@ -3,7 +3,7 @@ widget: about
 widget_id: m
 headless: true
 weight: 20
-title: Interests and Professional Activities
+title: Interests and professional activities
 active: true
 author: admin
 ---
