@@ -11,9 +11,9 @@ interests:
   - Watersheds
   - Groundwater
   - Hydrogeology
-  - Water Conservation
+  - Water conservation
   - Desertification
-  - Education for Sustainability
+  - Education for sustainability
   - Coastal ecosystems
 social: []
 organizations: []
