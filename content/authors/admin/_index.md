@@ -8,6 +8,11 @@ avatar_filename: null
 bio: ""
 interests:
   - Coastal biogeochemistry
+  - Wathersheds
+  - Hydrogeology
+  - Water Conservation
+  - Desertification
+  - Education for Sustainability
 social: []
 organizations: []
 education:
