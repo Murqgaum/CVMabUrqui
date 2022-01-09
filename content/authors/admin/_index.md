@@ -8,7 +8,7 @@ avatar_filename: null
 bio: ""
 interests:
   - Coastal biogeochemistry
-  - Wathersheds
+  - Watersheds
   - Hydrogeology
   - Water Conservation
   - Desertification
