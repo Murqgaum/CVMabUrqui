@@ -1,8 +1,9 @@
 ---
 title: Mabilia Urquidi Gaume
-role: "M Sc. Master in Use, Management and Preservation of Natural Resources,
-  Geographic Information System &  Data Analyst. Knowledge in Hydrogeology of
-  Arid Coastal Watersheds. "
+role: "M Sc. Master in Use, Management and Preservation of Natural
+  Resources.            Geographic Information System &  Data
+  Analyst.                    Knowledge in Hydrogeology of Arid Coastal
+  Watersheds. "
 avatar_filename: null
 bio: ""
 interests: []
