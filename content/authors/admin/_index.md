@@ -11,11 +11,11 @@ social: []
 organizations: []
 education:
   courses:
-    - course: M.Sc. Master in Use, Management and Preservation of Natural Resources.
+    - course: M.Sc. Master in Use, Management and Preservation of Natural Resources
       institution: "Centro de Investigaciones Biológicas del Noroeste (CIBNOR). La
         Paz, B.C.S., México. GPA: 9.65"
       year: 2012
-    - course: "B.A. In Marine Biology. "
+    - course: B.A. In Marine Biology
       institution: "Universidad Autónoma de Baja California Sur. La Paz, B.C.S,
         Mexico. GPA: 92. Graduated with Special Honors. Best final average of
         the generation & special honor awarded for being the best average and
