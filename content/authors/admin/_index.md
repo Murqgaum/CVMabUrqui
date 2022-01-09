@@ -6,7 +6,8 @@ role: "M Sc. Master in Use, Management and Preservation of Natural
   Watersheds. "
 avatar_filename: null
 bio: ""
-interests: []
+interests:
+  - Coastal biogeochemistry
 social: []
 organizations: []
 education:
