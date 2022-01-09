@@ -31,7 +31,7 @@ Her collaborations contributed to the efforts carried by the nonprofit CEDO to d
 
 She started her career as a Marine Biologist but she became interested in coastal ecosystems and watersheds, in the context of Water Conservation. She is particularly interested in research about hydrogeology and biogeochemistry of coastal areas. This knowledge, enables to understand the situation of coastal aquifers and the associated ecosystems.  She has been involved with local nonprofit  for the Management of  Watershed Recharge Areas, within others  projects. She has also been involved in dissemination campaigns for Water Conservation with the local community in the city of La Paz.
 
-Mabilia´s advanced knowlegde of GIS analysis  had lead to collaborate in projects with a diversity of themes. Her most recent collaboration ocurred with an International Nonprofit Organization present in 12 countries of the world, collaborating in an Interdisciplinary team, for the *World Mosquito Program* in a program to reduce the incidence of dengue, Zika and chinkungunya.
+Mabilia´s advanced knowlegde of GIS analysis  had lead to collaborate in projects with a diversity of themes. Her most recent collaboration ocurred with an International Nonprofit Organization present in 12 countries of the world,within an Interdisciplinary team, for the *World Mosquito Program* in a program to reduce the incidence of dengue, Zika and chinkungunya.
 
 Competences:
 
