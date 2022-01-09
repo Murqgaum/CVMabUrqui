@@ -9,6 +9,7 @@ bio: ""
 interests:
   - Coastal biogeochemistry
   - Watersheds
+  - Groundwater
   - Hydrogeology
   - Water Conservation
   - Desertification
