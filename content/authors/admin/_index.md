@@ -4,7 +4,7 @@ role: "M Sc. Master in Use, Management and Preservation of Natural
   Resources.                      Geographic Information System &  Data
   Analyst.                    Knowledge in Hydrogeology of Arid Coastal
   Watersheds. "
-avatar_filename: ""
+avatar_filename: yo_2.jpg
 bio: ""
 interests:
   - Coastal biogeochemistry
