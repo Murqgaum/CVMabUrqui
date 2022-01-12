@@ -43,7 +43,7 @@ feature:
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
 - description:
 icon: qgis
-icon_pack: custom
+icon_pack: "custom"
 name: GIS Analysis
 
 ---
