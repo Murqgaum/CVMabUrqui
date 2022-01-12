@@ -23,8 +23,7 @@ feature:
 - description: 
   icon: chart-line
   icon_pack: fas
-  name: Data Science analysis & Statistics![qgis](https://user-images.githubusercontent.com/95734329/149234560-f9734151-ac56-4058-a85b-3a4ca03fdc6b.png)
-
+  name: Data Science analysis & Statistics
 - description:
   icon: camera-retro
   icon_pack: fas
